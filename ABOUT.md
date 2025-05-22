@@ -9,7 +9,7 @@
 ## Table of Contents
 
 - [About](#about)
-- [Updates](#updates)
+- [Updates](./UPDATES.md)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
