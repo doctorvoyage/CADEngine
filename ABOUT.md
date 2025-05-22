@@ -1,23 +1,4 @@
-# 🚀 Computer Actuation Driver Engine V0.1  
-*A Custom Servo Driver for Robotics Systems*
-
-![Build Status](https://img.shields.io/badge/status-WIP-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
----
-
-## Table of Contents
-
-- [About](#about)
-- [Roadmap](#roadmap)
-- [License](./LICENSE.md)
-- [Updates](./UPDATES.md)
-- [Installation](./INSTALLATION.md)
-- [Usage](./INSTALLATION.md)
-
----
-
-## 🧠 About
+# 🧠 About
 
 **CADEnginee** is an open-source servo driver designed for robotics enthusiasts and developers. Built with flexibility and performance in mind, it aims to provide:
 
@@ -26,13 +7,3 @@
 - Support for multi-servo coordination
 
 Whether you're automating a robotic arm or developing an RC rover, this driver is built to keep things simple.
-
----
-
-# ✨ Roadmap 
-
-- 🚧 PWM signal generation
-- 🚧 Smooth, non-blocking movement handling
-- 🚧 Multi-servo synchronization
-- 🚧 Expandable microcontroller support (ESP32, Arduino, Pi, etc.)
-- 🚧 Configurable motion profiles
