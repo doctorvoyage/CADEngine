@@ -13,7 +13,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
-- [License](#license)
+- [License](./LICENSE.md)
 
 ---
 
