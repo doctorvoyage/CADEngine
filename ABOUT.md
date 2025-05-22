@@ -29,21 +29,10 @@ Whether you're automating a robotic arm or developing an RC rover, this driver i
 
 ---
 
-# ✨ Features 
+# ✨ Roadmap 
 
 - 🚧 PWM signal generation
 - 🚧 Smooth, non-blocking movement handling
 - 🚧 Multi-servo synchronization
 - 🚧 Expandable microcontroller support (ESP32, Arduino, Pi, etc.)
 - 🚧 Configurable motion profiles
-
----
-
-# 🔧 Installation
-
-> **Note:** Development is still ongoing. Code and installation instructions will be provided once the initial prototype is complete.
-
-```bash
-# Future install command
-git clone https://github.com/doctorvoyage/CADEngine.git
-cd CADEngine
