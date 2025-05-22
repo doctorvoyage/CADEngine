@@ -1,4 +1,4 @@
-# 🚀 Computer Actuation Driver Engine V0.1  
+# 🚀 Computer Actuation Driver Engine V0.01  
 *A Custom Servo Driver for Robotics Systems*
 
 ![Build Status](https://img.shields.io/badge/status-WIP-blue)
