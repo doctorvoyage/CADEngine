@@ -13,4 +13,3 @@
 - [License](./LICENSE.md)
 - [Updates](./UPDATES.md)
 - [Installation](./INSTALLATION.md)
-- [Usage](./INSTALLATION.md)
