@@ -6,16 +6,14 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [About](#about)
-- [Features](#features)
+- [Updates](#updates)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
