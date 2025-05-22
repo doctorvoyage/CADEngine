@@ -21,13 +21,13 @@
 
 ## 🧠 About
 
-**CompCAT Pulse** is an open-source servo driver designed for robotics enthusiasts and developers. Built with flexibility and performance in mind, it aims to provide:
+**CADEnginee** is an open-source servo driver designed for robotics enthusiasts and developers. Built with flexibility and performance in mind, it aims to provide:
 
 - Smooth, precise motion control
 - Easy integration with popular microcontrollers
 - Support for multi-servo coordination
 
-Whether you're automating a robotic arm or developing an RC rover, this driver is built to keep things moving — literally.
+Whether you're automating a robotic arm or developing an RC rover, this driver is built to keep things simple.
 
 ---
 
@@ -48,4 +48,4 @@ Whether you're automating a robotic arm or developing an RC rover, this driver i
 ```bash
 # Future install command
 git clone https://github.com/doctorvoyage/CADEngine.git
-cd compcat-pulse
+cd CADEngine
