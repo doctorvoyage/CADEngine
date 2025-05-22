@@ -9,11 +9,11 @@
 ## Table of Contents
 
 - [About](#about)
-- [Updates](./UPDATES.md)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Roadmap](#roadmap)
 - [License](./LICENSE.md)
+- [Updates](./UPDATES.md)
+- [Installation](./INSTALLATION.md)
+- [Usage](./INSTALLATION.md)
 
 ---
 
@@ -29,7 +29,7 @@ Whether you're automating a robotic arm or developing an RC rover, this driver i
 
 ---
 
-## ✨ Features 
+# ✨ Features 
 
 - 🚧 PWM signal generation
 - 🚧 Smooth, non-blocking movement handling
@@ -39,7 +39,7 @@ Whether you're automating a robotic arm or developing an RC rover, this driver i
 
 ---
 
-## 🔧 Installation
+# 🔧 Installation
 
 > **Note:** Development is still ongoing. Code and installation instructions will be provided once the initial prototype is complete.
 
