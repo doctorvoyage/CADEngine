@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [About](docs/ABOUT.md)
-- [License](docs/LICENSE.md)
-- [Updates](docs/UPDATES.md)
-- [Installation](docs/INSTALLATION.md)
+- [About](.docs/ABOUT.md)
+- [License](.docs/LICENSE.md)
+- [Updates](.docs/UPDATES.md)
+- [Installation](.docs/INSTALLATION.md)
