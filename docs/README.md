@@ -8,8 +8,7 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Roadmap](#roadmap)
-- [License](./LICENSE.md)
-- [Updates](./UPDATES.md)
-- [Installation](./INSTALLATION.md)
+- [About](docs/ABOUT.md)
+- [License](docs/LICENSE.md)
+- [Updates](docs/UPDATES.md)
+- [Installation](docs/INSTALLATION.md)
